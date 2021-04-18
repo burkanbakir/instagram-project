@@ -1,0 +1,32 @@
+.marginl{
+    margin-left: 192px;
+    /*For logo */
+}
+
+.marginll {
+    margin-left: 275px;
+    /*For searchbar */
+}
+
+.story {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+
+  }
+  .postuserfont {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    color: black;
+  }
+
+  .rightpanellinks {
+    text-decoration: none;
+    color: lightgrey;
+  }
+  
+  .rightpanellinks:hover {
+    text-decoration: none;
+    color: lightgrey;
+  }
